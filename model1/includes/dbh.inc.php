@@ -1,5 +1,5 @@
 <?php
-$dBServername = "localhost";
+$dBServername = "xSTOx.github.io";
 $dBUsername = "root";
 $dBPassword = "";
 $dBName = "loginsystem";
