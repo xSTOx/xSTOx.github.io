@@ -1,0 +1,41 @@
+.container {
+	color: #32CD32;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	margin-bottom: 80px;
+	margin-top: 90px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.container input {
+	color: #32CD32;
+	background-color: #272727;
+	border: 1px solid #32CD32; 
+}
+
+.container button {
+	color: #32CD32;
+	font: #272727;
+	background-color: #272727;
+	border: 1px solid #32CD32; 
+	font-family: 'Indie Flower', cursive;
+}
+
+.container option {
+	color: #32CD32;
+	background-color: #272727;
+	border: 1px solid #32CD32; 
+	font-family: 'Indie Flower', cursive;
+}
+
+#operator {
+	background-color: #272727;
+	color: #32CD32;
+	font-family: 'Indie Flower', cursive;
+	border: 1px solid #32CD32;
+}
+
